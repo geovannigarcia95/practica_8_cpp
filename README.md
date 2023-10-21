@@ -26,3 +26,7 @@ En este caso, el usuario ingresó "5.2" como el primer valor y "3.0" como el seg
 ### Consideraciones
 
 Esta práctica ilustra cómo se puede modularizar un programa en C++ mediante el uso de funciones. La función `Mult()` realiza una operación específica (multiplicación en este caso) y devuelve un resultado. Esto hace que el código sea más organizado y fácil de mantener. También se destaca el uso de tipos de datos en punto flotante para trabajar con números decimales. Esta es una práctica fundamental para comprender cómo funcionan las funciones en C++ y cómo se pueden utilizar para realizar tareas específicas de manera eficiente.
+
+Autor:Yoshio Geovanni García López
+
+Fecha: 7 de diciembre del 2022
